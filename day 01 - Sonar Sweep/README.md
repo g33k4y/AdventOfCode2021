@@ -61,7 +61,7 @@ Run the python scrip _main1.py_ to get the solution given the input file _input.
 > 
 > Consider sums of a three-measurement sliding window. **How many sums are larger than the previous sum?**
 > 
-> Answer: **165795564**
+> Answer: **1743**
 > 
 > Although it hasn't changed, you can still [get your puzzle input](https://adventofcode.com/2020/day/1/input).
 
@@ -72,4 +72,4 @@ Run the python scrip _main1.py_ to get the solution given the input file _input.
 Run the python scrip _main2.py_ to get the solution given the input file _input.txt_:  
 `python3 main2.py`  
 
-![](./res/three_values.png)
+![](./res/answer2.png)
