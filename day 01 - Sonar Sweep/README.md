@@ -63,7 +63,7 @@ Run the python scrip _main1.py_ to get the solution given the input file _input.
 > 
 > Answer: **1743**
 > 
-> Although it hasn't changed, you can still [get your puzzle input](https://adventofcode.com/2020/day/1/input).
+> Although it hasn't changed, you can still [get your puzzle input](https://adventofcode.com/2021/day/1/input).
 
 ---  
 
