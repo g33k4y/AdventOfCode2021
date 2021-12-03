@@ -27,7 +27,7 @@ After following these instructions, you would have a horizontal position of `15`
 
 Calculate the horizontal position and depth you would have after following the planned course. **What do you get if you multiply your final horizontal position by your final depth?**
 
-To begin, [get your puzzle input](https://adventofcode.com/2021/day/2/input).
+To begin, [get your puzzle input](./input).
 
 Answer: **1604850**
 
@@ -71,7 +71,7 @@ Using this new interpretation of the commands, calculate the horizontal position
 
 Answer: **1685186100**
 
-Although it hasn't changed, you can still [get your puzzle input](https://adventofcode.com/2021/day/2/input).
+Although it hasn't changed, you can still [get your puzzle input](./input).
 
 ---  
 
