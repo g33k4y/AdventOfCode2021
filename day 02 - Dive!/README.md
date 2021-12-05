@@ -1,4 +1,4 @@
-# [--- Day 1: Dive! ---](https://adventofcode.com/2021/day/2)  
+# [--- Day 2: Dive! ---](https://adventofcode.com/2021/day/2)  
 
 Now, you need to figure out how to pilot this thing.
 
