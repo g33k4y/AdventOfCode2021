@@ -57,7 +57,7 @@ After 256 days in the example above, there would be a total of **`26984457539`**
 
 **How many lanternfish would there be after 256 days?**
 
-Answer: **2775870**
+Answer: **1733403626279**
 
 Although it hasn't changed, you can still [get your puzzle input](./input).
 
